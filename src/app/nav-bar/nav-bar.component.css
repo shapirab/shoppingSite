@@ -1,7 +1,10 @@
-.nav-link{
-  margin-left: 5px;
+.container--nav{
+  margin-left: 2rem;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
 }
 
-.navbar-nav{
-  padding: 0.5rem 0;
+.dropdown--nav{
+  margin-left: 10px;
 }
